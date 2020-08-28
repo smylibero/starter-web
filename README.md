@@ -5,7 +5,9 @@ Questo è un progetto per imparare ad usare git e github insieme.
 Aggiungiamo una descrizione per l'introduzione
 
 ## Purpose
+Aggiungiamo una descrizione per purpose
 
 ## Deployment
+Aggiungiamo una descrizione per deployment
 
 ## How to contribute
