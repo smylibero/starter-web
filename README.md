@@ -11,7 +11,7 @@ Aggiungiamo una descrizione per purpose
 Aggiungiamo una descrizione per deployment
 
 ## How to contribute
- forcare il repository e fare pull per modifiche
+ NEW forcare il repository e fare la pull per revisioni
 
 ## Copyright
 Copyright 2020 simone
