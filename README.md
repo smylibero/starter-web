@@ -11,3 +11,6 @@ Aggiungiamo una descrizione per purpose
 Aggiungiamo una descrizione per deployment
 
 ## How to contribute
+
+## Copyright
+Copyright 2020 simone
