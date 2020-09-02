@@ -1,5 +1,5 @@
 # Starter Web Project
-Questo è un progetto per imparare ad usare git e github insieme. Modifica da master per es. rebase
+Questo è un progetto per imparare ad usare git e github insieme. Modifica da master per es. rebase + modifica dopo rebase da mufeature
 
 ## Introduction
 Aggiungiamo una descrizione per l'introduzione
