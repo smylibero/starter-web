@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> modifica da branch myfeature
 
 # TECHNOLOGY COLOPHON
 
